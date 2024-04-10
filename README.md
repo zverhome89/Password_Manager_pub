@@ -1,5 +1,10 @@
 # Password_Manager_pub
-<Img src="https://github.com/zverhome89/Password_Manager_pub/blob/main/pwd_mng.jpg" Width="250" Height="200">
+<p><Img src="https://github.com/zverhome89/Password_Manager_pub/blob/main/pwd_mng.jpg" Width="250" Height="200">
+<Img src="https://github.com/zverhome89/Password_Manager_pub/blob/main/pwd_mng1.jpg" Width="250" Height="200">
+<Img src="https://github.com/zverhome89/Password_Manager_pub/blob/main/pwd_mng2.jpg" Width="250" Height="200">
+<Img src="https://github.com/zverhome89/Password_Manager_pub/blob/main/pwd_mng3.jpg" Width="250" Height="200">
+<Img src="https://github.com/zverhome89/Password_Manager_pub/blob/main/pwd_mng4.jpg" Width="250" Height="200">
+</p>
 Free Password Manager install
 Free Pasword Manager for local PC
 <br>Бесплатный менеджер паролей для локального использования на вашем ПК, работает без интернета, создает БД на вашем компьютере, никакие регистрации не нужны, рекламы нет и никогда не будет, ваши данные никуда не отсылает (интернет для работы не нужен).</br>
